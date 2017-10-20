@@ -2,6 +2,11 @@ Cold and dry. but everything is my favorite color.
 The two moons may be a problem for wolfman.
 The mummy 
 dum idea but maybe we add venus as a possible site for exploration
+<<<<<<< HEAD
 nevermind venus was a bad idea
 wait! I just changed my mind
 
+=======
+
+laura's mars coment blah blah blah
+>>>>>>> fb16fb2151afb3a8e1c929ee0008425bac41b4bf
